@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lets Help NGO</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_print_ngo_details">print_ngo_details</string>
+    <string name="Name">Name:</string>
+    <string name="Description">Description:</string>
+    <string name="next">Next</string>
+</resources>
